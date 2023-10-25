@@ -29,7 +29,7 @@ Se você quiser clonar este repositório e executá-lo localmente, siga estas et
 
 1. Clone o repositório para o seu ambiente de desenvolvimento:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/LucasKaliLinux/danki.git
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar o site.
 
